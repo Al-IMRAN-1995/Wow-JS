@@ -1,0 +1,18 @@
+Css:
+<!--animate css-->
+<link href="assets/css/animate.css" rel="stylesheet"> <!-- need for wow js -->
+<!--animate-v-4.0.0 css-->
+<link href="assets/css/animate-v-4.0.0.min.css" rel="stylesheet"><!-- need for wow js -->
+
+
+Js:
+<!--wow js-->
+<script src="assets/js/wow.js"></script> <!-- need for wow js -->
+<!--wow js active-->
+<script src="assets/js/wow-active.js"></script><!-- need for wow js -->
+
+
+call system:
+<div class="wow animate__bounceInUp">
+      <div class="round"></div>
+</div>
